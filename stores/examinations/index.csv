@@ -1,0 +1,39 @@
+id,examination_date,patient_gender,examination,findings_exists,image_path,findings_list,patient_age,view_position,modality
+f1f44c26-4cf1-4971-aa6f-fe0343473f4f,,,Kopf,True,,[],,,CT
+d0bed5c2-70e9-41cc-965c-d24bffc5ee5d,,,Halsweichteile,True,,[],,,CT
+d1c942f0-cb58-40a6-bbf6-210c1898a46a,,,Thorax + Abdomen,True,,[],,,CT
+8fc05bc0-f8db-4ffe-95dc-f8da148e29aa,,,Kopf,True,,[],,,CT
+d88279a0-55e7-4e02-b4fa-8e20a30a1c50,,,Kopf,True,,[],,,CT
+4ce9ffb7-8926-4e0a-88f3-7e77a9e86533,,,Thorax + Abdomen,True,,[],,,CT
+d340cc66-4bfb-4c24-a055-0ab05ddf603a,,,Halsweichteile + Thorax,True,,[],,,CT
+d24e8fdf-1093-43b0-be14-7fc43654e721,,,Abdomen,True,,[],,,CT
+3388cbdc-f18c-495e-a643-b9ff6fa3175b,,,Kopf,True,,[],,,CT
+abdccdd9-0d64-47ef-846b-c5673573be4b,,,Thorax,True,,[],,,CT
+dcb025cc-bfe7-4aab-a1e1-f05af0662b2c,,,Thorax + Abdomen,True,,[],,,CT
+26395333-b7bf-4401-8b5a-3d9dd235878a,,,Abdomen,True,,[],,,CT
+88d8aa11-a076-4ba7-aa14-01aaf50b9f96,,,Kopf,True,,[],,,CT
+4d927b82-9ec4-44f9-9a87-7a473f11f4c7,,,Kopf,True,,[],,,CT
+681a908d-7076-4868-a2a6-1b5b5a92d277,,,Kopf,True,,[],,,CT
+1e063caa-01d7-46fd-b630-8721af42d47e,2018-04-11,,Kopf,True,,[],,,CT
+e9ac759e-2244-47ea-8bc6-e88deeeca0a3,2018-04-12,,Kopf,True,,[],,,CT
+9237daac-2ac7-45a9-a170-7020b7a9305d,2018-04-12,,Kopf,True,,[],,,CT
+3fb70d6b-fc72-4b6c-aef4-2e1eb4f2d733,2018-04-12,,Kopf,True,,[],,,CT
+b499e537-cc51-44db-90dc-805caae013ce,2018-04-18,,Kopf,True,,[],,,CT
+1a8c8b67-30fb-4813-9506-b9ea965d5290,2018-07-05,,Kopf + HWS,True,,[],,,CT
+c11e38fb-52db-496d-aaa1-96cbc6c32e37,2018-07-05,,Kopf,True,,[],,,CT
+d0739fef-d614-421e-967e-d08ebacb9232,2018-07-07,,Kopf,True,,[],,,CT
+7a4468da-72ca-430d-b7b4-f163ac3568e5,2018-07-07,,Kopf,True,,[],,,CT
+bc6e4b85-ec2a-4ccb-b7b6-dfe44ea1ac28,2018-07-08,,Kopf,True,,[],,,CT
+20ec981c-5ec8-48be-bef3-704f20db34ba,2018-07-11,,Kopf,True,,[],,,CT
+9275d69f-0fbb-4aa5-ae87-4aeababaef35,2018-07-11,,Kopf,True,,[],,,CT
+6b5fd7c6-c5b2-49e3-9798-cf99c9315e3d,2018-07-18,,Kopf,True,,[],,,CT
+26f3941a-ad38-4ea0-8112-c28730e5d716,2018-07-19,,Kopf,True,,[],,,CT
+7c5aeb20-95ef-4279-9aac-ce2aa6a6d1e1,2018-07-19,,Kopf + CTA,True,,[],,,CT
+93a30bad-0228-4a9c-92c3-c37c2b6c01b1,2018-07-18,,Kopf,True,,[],,,CT
+794ab290-6d7c-4d5a-baa2-5a422bf37bc8,2018-07-22,,Kopf,True,,[],,,CT
+bd4fb5b7-7a28-4d6a-b08c-a090a1c1ba15,2018-07-22,,Kopf,True,,[],,,CT
+8f0428bf-9251-4610-80c7-da0a2a8c037e,2018-07-22,,Kopf,True,,[],,,CT
+5537e219-8d56-4fcc-bc43-13a9ea10e079,2018-07-22,,Kopf,True,,[],,,CT
+86fd139b-f313-4a60-90cc-04cfab1f5ffe,2018-07-23,,Kopf,True,,[],,,CT
+21ebffce-f8b9-4b40-8215-05aca91d6e06,2018-07-25,,Kopf,True,,[],,,CT
+8559e9d2-ccfc-44c9-b257-058e2f36340d,2018-07-26,,Kopf,True,,[],,,CT
